@@ -1,0 +1,23 @@
+# Changes here will be overwritten by Copier
+_commit: 8ae54c3
+_src_path: gh:browniebroke/pypackage-template
+add_me_as_contributor: true
+cli_name: pellet
+copyright_year: '2026'
+documentation: true
+email: 34j.95a2p@simplelogin.com
+full_name: ultrasphere-dev
+github_username: ultrasphere-dev
+has_cli: true
+initial_commit: true
+is_django_package: false
+open_source_license: MIT
+open_with_editor: true
+package_name: pellet
+project_name: Pellet
+project_short_description: Pellet's theorem implemented using python-flint
+project_slug: pellet
+run_uv_sync: true
+setup_github: true
+setup_pre_commit: true
+
