@@ -23,7 +23,7 @@ jobs:
       - uses: j178/prek-action@v3.0.0
         id: prek
         continue-on-error: true
-      - uses: pre-commit-ci/lite-action@v1.1.0
+      - uses: pre-commit-ci/lite-action@062bca0919bc9d6e66755cc05074b70c77e111fc # v1.2.0
         if: always()
         with:
           msg: "chore: auto-fix from pre-commit hooks"
